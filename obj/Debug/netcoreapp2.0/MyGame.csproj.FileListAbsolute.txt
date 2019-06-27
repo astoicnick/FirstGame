@@ -1,0 +1,12 @@
+C:\Users\Nick\source\repos\Monogame\MyGame\bin\Debug\netcoreapp2.0\MyGame.deps.json
+C:\Users\Nick\source\repos\Monogame\MyGame\bin\Debug\netcoreapp2.0\MyGame.runtimeconfig.json
+C:\Users\Nick\source\repos\Monogame\MyGame\bin\Debug\netcoreapp2.0\MyGame.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\Monogame\MyGame\bin\Debug\netcoreapp2.0\MyGame.dll
+C:\Users\Nick\source\repos\Monogame\MyGame\bin\Debug\netcoreapp2.0\MyGame.pdb
+C:\Users\Nick\source\repos\Monogame\MyGame\obj\Debug\netcoreapp2.0\MyGame.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\Monogame\MyGame\obj\Debug\netcoreapp2.0\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Monogame\MyGame\obj\Debug\netcoreapp2.0\MyGame.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\Monogame\MyGame\obj\Debug\netcoreapp2.0\MyGame.AssemblyInfo.cs
+C:\Users\Nick\source\repos\Monogame\MyGame\obj\Debug\netcoreapp2.0\MyGame.dll
+C:\Users\Nick\source\repos\Monogame\MyGame\obj\Debug\netcoreapp2.0\MyGame.pdb
+C:\Users\Nick\source\repos\Monogame\MyGame\bin\Debug\netcoreapp2.0\Content\Box.xnb
